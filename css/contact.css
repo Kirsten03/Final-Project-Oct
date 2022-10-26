@@ -78,4 +78,8 @@ main h1{
     size: 80px;
     text-transform: uppercase;
 }
-
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
