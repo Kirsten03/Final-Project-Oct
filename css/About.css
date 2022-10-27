@@ -40,7 +40,7 @@ main{
     height: 900px;
     background-color: rgb(255, 255, 255);
     margin-top: 50px;
-    background-image: url(/Images/Logo.png);
+    background-image: url(/Images/GrayLogo.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 800px;
