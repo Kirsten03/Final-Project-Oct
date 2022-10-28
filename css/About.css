@@ -78,3 +78,21 @@ footer{
     width: 100%;
     background-color: black;
 }
+.topBtn{
+    position: fixed;
+    right: 3%;
+    bottom: 10%;
+}
+.topBtn button{
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 30px;
+    background-color: rgb(66, 63, 63);
+}
+.topBtn button:hover{
+    background-color: blue;
+    color: #fff;
+}
+.topBtn button:active{
+    background-color: chartreuse;
+    color: #000;
